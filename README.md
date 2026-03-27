@@ -1,16 +1,42 @@
-# React + Vite
+# 🍳 Interactive Recipe Finder
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+An intelligent and user-friendly web application that helps you discover delicious recipes using the ingredients you already have at home. No more guesswork in the kitchen—just enter what’s available, and get instant recipe suggestions tailored to you.
 
-Currently, two official plugins are available:
+# 🚀 Problem Statement
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+Many people struggle to decide what to cook with limited or leftover ingredients. This often leads to wasted food, extra grocery spending, and time lost searching for ideas. The Interactive Recipe Finder solves this by providing smart, real-time recipe suggestions based on available ingredients.
 
-## React Compiler
+# 💡 Solution
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+This application leverages powerful food APIs to match user-input ingredients with relevant recipes. It simplifies meal planning, reduces food wastage, and enhances the overall cooking experience with quick, accessible, and practical solutions.
 
-## Expanding the ESLint configuration
+# ✨ Features
+🔍 Ingredient-Based Search
+Enter ingredients you already have and get curated recipe suggestions instantly.
+📋 Detailed Recipe Information
+View complete cooking instructions, ingredient lists, and preparation steps.
+⚡ Fast & Responsive UI
+Built with React for a smooth and dynamic user experience across devices.
+🌐 Real-Time API Integration
+Fetches up-to-date recipe data using APIs like Spoonacular or Edamam.
+🎯 Smart Meal Planning
+Helps reduce food waste and makes daily cooking decisions easier.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+# 🛠️ Tech Stack
+Frontend: HTML, CSS, JavaScript, React
+API Integration: Spoonacular API / Edamam API
+Version Control: Git & GitHub
+
+# 🎯 Key Benefits
+🍽️ Saves time deciding what to cook
+🛒 Reduces unnecessary grocery purchases
+♻️ Minimizes food wastage
+👨‍🍳 Encourages creative cooking with available ingredients
+📌 Future Enhancements
+❤️ Save favorite recipes
+🧠 AI-based personalized recommendations
+📅 Weekly meal planner
+🛒 Auto-generated shopping lists
+
+# 📷 Preview
+
